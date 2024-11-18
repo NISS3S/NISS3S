@@ -1,6 +1,6 @@
 - I’m @NISS3S
 - 👀 I’m interested in Software Defined Radio.  Kali Linux.  Networking/Networks.  Learning. 
-- 🌱 I’m currently learning ... (see above)
+- 🌱 I’m currently learning ... (SDR, KALI LINUX, MRE/UAM DESIGN, ETC)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me = here for now
 - 😄 Pronouns: ... as you like.  
